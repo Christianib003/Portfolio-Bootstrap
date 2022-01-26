@@ -19,6 +19,12 @@ Creating Personal portfolio page using bootstrap
 - GitHub: [@Christianib003](https://github.com/Christianib003)
 - LinkedIn: [@Christian Iradukunda Byiringiro](https://www.linkedin.com/in/christian-iradukunda-byiringiro-657598226)
 
+👤 **Author2**
+Chia Carlyle
+  - Github: [@carlylechia](https://github.com/carlylechia)
+  - Twitter:[Carlyle](https://twitter.com/CarlyleChia)
+  - Linked-in:[@Chia-Carlyle](https://www.linkedin.com/in/chia-carlyle/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
